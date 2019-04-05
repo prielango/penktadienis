@@ -110,8 +110,12 @@ textarea {
 }
 
 .col {
-	width: 100px;
+	width: 30%;
 	height: 100px;
 	border: 1px solid #fff;
 	margin: 1em;
+}
+
+.col ul {
+	list-style: none;
 }
